@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Navin Sharma",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/59772521?s=400&v=4",
+		"email": "2019kucp1021@iiitkota.ac.in",
+		"phone": "+916260013910",
+		"summary": "Pursuing BTech in Computer Science and Engineering at IIIT Kota. Enthusiastic and Passionate about the field of Computer Science.",
+		"location": {
+			"address": "Indore",
+			"postalCode": "452010",
+			"city": "Indore",
+			"countryCode": "India",
+			"region": "MP"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "nanusharma2001",
+				"url": "https://github.com/nanusharma2001"
+			},
+			{
+				"network": "linkedin",
+				"username": "Navin Sharma",
+				"url": "https://www.linkedin.com/in/navin-sharma-3014bb18b/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_navin.sharma_",
+				"url": "https://www.instagram.com/_navin.sharma_/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "",
+		"studyType": "Bachelor Of Technology",
+		"startDate": "2019-04-08",
+		"endDate": "2023",
+		"gpa": "8.91",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"publications": [{
+		"title": "Responsive Restaurant Site",
+		"details": "Made a Responsive Site for a restaurant using Bootstrap",
+		"link": "https://github.com/nanusharma2001/Bootstrap4"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C++","HTML", "CSS","Node.js","MongoDB","Javascript","BootStrap", "C","Git","MySQL","Java","Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}]
+}
